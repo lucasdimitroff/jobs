@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="header_containter_color">#0066FF</color>
+    <color name="header_action_buttons_bg">#CCCCFF</color>
+    <color name="header_action_buttons_selected">#CCCCCC</color>
+
+</resources>
